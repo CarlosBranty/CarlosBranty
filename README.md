@@ -4,7 +4,9 @@
 
 <img src="https://i.imgur.com/uuqCnf1.png"/>
 
-## <picture><img src = "https://i.imgur.com/hT2KXfc.gif"</picture> **About me**
+<picture> <img align="right" src="https://i.imgur.com/hT2KXfc.gif" width = 250px></picture>
+
+<br>
 
 <h3 align="center">A passionate Fullstack developer from Perú, I enjoi time developing web apps and desktop apps</h3>
 
