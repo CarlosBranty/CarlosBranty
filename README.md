@@ -12,6 +12,7 @@
 - 🎥 Se more about my projects [Youtube](https://www.youtube.com/channel/UCw1cuaEZe7eVaOIao0mbCdA)
 - 👨‍💻 All of my projects are available at [https://portfolio-branty-v2.vercel.app](https://portfolio-branty-v2.vercel.app)
 - 💬 Ask me about **react, JS, CSS, HTML, NEXT JS,C#, WPF, Windows forms, python**
+- ⚡ Fun fact **When I get tired of programming, I rest programming or learning another language, I don't know if it's normal**
 <br>
 
 ## Proyectos *recientes*
@@ -52,21 +53,9 @@
 </div>                                                             
 </table>  
 
-<h3 align="center">A passionate Fullstack developer from Perú, I enjoi time developing web apps and desktop apps</h3>
+### ⚙️ &nbsp;GitHub Analytics
 
-- 🌱 I’m currently learning **Astro**
 
-- 👯 I’m looking to collaborate on **any project i can help**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-branty-v2.vercel.app](https://portfolio-branty-v2.vercel.app)
-
-- 💬 Ask me about **react, JS, CSS, HTML, NEXT JS,C#, WPF, Windows forms, python**
-
-- 📫 How to reach me **losbrantybc@yahoo.com**
-
-- 📄 Know about my experiences [https://portfolio-branty-v2.vercel.app](https://portfolio-branty-v2.vercel.app)
-
-- ⚡ Fun fact **When I get tired of programming, I rest programming or learning another language, I don't know if it's normal**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
