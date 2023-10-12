@@ -3,6 +3,8 @@
 </div>
 
 <img src="https://i.imgur.com/uuqCnf1.png"/>
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCw1cuaEZe7eVaOIao0mbCdA?color=646669)
+
 <br>
 
 ## <picture><img src = "https://i.imgur.com/hT2KXfc.gif" width = 50px></picture> **About me**
