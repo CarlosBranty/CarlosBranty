@@ -1,8 +1,10 @@
 <div align="center">
-<h1 align="center" style="color:#D1D0C5;">Hi 👋, I'm Carlos Branty Conza Mendoza</h1>
+<h1 align="center">Hi 👋, I'm Carlos Branty Conza Mendoza</h1>
 </div>
 
 <img src="https://i.imgur.com/uuqCnf1.png"/>
+
+## <picture><img src = "https://i.imgur.com/hT2KXfc.gif"</picture> **About me**
 
 <h3 align="center">A passionate Fullstack developer from Perú, I enjoi time developing web apps and desktop apps</h3>
 
