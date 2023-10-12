@@ -3,7 +3,8 @@
 </div>
 
 <img src="https://i.imgur.com/uuqCnf1.png"/>
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCw1cuaEZe7eVaOIao0mbCdA?color=646669)]
+![Static Badge](https://img.shields.io/badge/:badgeContent)(https://www.youtube.com/channel/UCw1cuaEZe7eVaOIao0mbCdA)
+
 
 <br>
 
