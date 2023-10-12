@@ -3,7 +3,9 @@
 </div>
 
 <img src="https://i.imgur.com/uuqCnf1.png"/>
+<br>
 
+## <picture><img src = "https://i.imgur.com/hT2KXfc.gif" width = 50px></picture> **About me**
 <picture> <img align="right" src="https://i.imgur.com/hT2KXfc.gif" width = 250px></picture>
 
 <br>
