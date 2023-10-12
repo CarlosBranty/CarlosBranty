@@ -3,7 +3,6 @@
 </div>
 
 <img src="https://i.imgur.com/uuqCnf1.png"/>
-[![Static Badge](https://img.shields.io/badge/:badgeContent)](https://www.youtube.com/channel/UCw1cuaEZe7eVaOIao0mbCdA)
 
 
 <br>
