@@ -1,4 +1,4 @@
-<img src="https://imgur.com/a/pZnfERh"/>
+<img src="https://i.imgur.com/uuqCnf1.png"/>
 <h1 align="center">Hi 👋, I'm Carlos Branty Conza Mendoza</h1>
 <h3 align="center">A passionate Fullstack developer from Perú, I enjoi time developing web apps and desktop apps</h3>
 
