@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-E2B714?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://www.youtube.com/channel/UCw1cuaEZe7eVaOIao0mbCdA" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-E2B714?style=for-the-badge&color=fbfc40">
+<img src="https://img.shields.io/badge/-Youtube-E2B714?style=for-the-badge&color=E2B714">
 </a>
 </p>
 <p>How to make modern Login with xalm WPF Avalonia ui and C#</strong> - Complete ui and source in github <strong>opensource code</strong>.</p>
@@ -46,7 +46,7 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-E2B714?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://www.youtube.com/channel/UCw1cuaEZe7eVaOIao0mbCdA" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-E2B714?style=for-the-badge&color=3fFD7f">
+<img src="https://img.shields.io/badge/-Youtube-E2B714?style=for-the-badge&color=E2B714">
 </a>
 </p>
 </p>How to make <strong>IMPRESCINDIBLES</strong> Magnetic button on react, Next js with tailwind typescript</p>
