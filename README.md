@@ -23,7 +23,7 @@
 <div align="center">
 <a href="https://github.com/CarlosBranty/CarlosBranty" target="_blank"><img src="https://i.imgur.com/8Yzo1Cu.png" width="400" alt="Login WPF-avalonia C#"></a>
 <p>
-<a href="https://github.com/CarlosBranty/CarlosBranty" target="_blank">
+<a href="https://github.com/CarlosBranty/LlamaRest_POS_WPF" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-E2B714?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://www.youtube.com/channel/UCw1cuaEZe7eVaOIao0mbCdA" target="_blank">
