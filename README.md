@@ -1,90 +1,87 @@
 <div align="center">
-<h1 align="center">Hi 👋, I'm Carlos Branty Conza Mendoza</h1>
+
+# Carlos Branty Conza Mendoza
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=620&lines=Full+Stack+Software+Engineer;AI+Engineer+%C2%B7+RAG+%C2%B7+LLM+apps;SaaS+in+production+with+real+customers;Rust+%C2%B7+TypeScript+%C2%B7+C%23+%C2%B7+PHP)](#)
+
+I build business software end to end: web apps, desktop apps, APIs and the test automation that keeps them shipping.
+
+📍 Peru &nbsp;·&nbsp; 💼 Full Stack Software Engineer at Tottus &nbsp;·&nbsp; 🛠️ Building software since 2019
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-branty-conza-mendoza-a830b5212/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-branty-v2.vercel.app)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCw1cuaEZe7eVaOIao0mbCdA)
+
 </div>
 
-<img src="https://i.imgur.com/uuqCnf1.png"/>
-<br>
+---
 
-## <picture><img src = "https://i.imgur.com/hT2KXfc.gif" width = 50px></picture> **About me**
-<picture> <img align="right" src="https://i.imgur.com/hT2KXfc.gif" width = 250px></picture>
-- ⭐ Github Opensource resources⭐ 
-- 📲 Web and desktop develper
-- 🎥 Se more about my projects [Youtube](https://www.youtube.com/channel/UCw1cuaEZe7eVaOIao0mbCdA)
-- 👨‍💻 All of my projects are available at [https://portfolio-branty-v2.vercel.app](https://portfolio-branty-v2.vercel.app)
-- 💬 Ask me about **react, JS, CSS, HTML, NEXT JS,C#, WPF, Windows forms, python**
-- ⚡ Fun fact **When I get tired of programming, I rest programming or learning another language, I don't know if it's normal**
-<br>
+## Highlights
 
-## Proyectos *recientes*
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Login WPF Avalonia</h3>
+- 🏭 **Built journeygate, an end-to-end software factory in Rust**: Jira ticket → triage → sandboxed coding agents → Playwright E2E journeys → CI release gate → draft PR for human review. 14 crates, one CLI.
+- 💼 **SaaS products in production with real customers**, which I designed, built and operate end to end.
+- 🧠 **RAG systems** delivered for TECSUP: AI assistants grounded on institutional knowledge.
+- 🧾 **Point-of-sale and electronic invoicing for Peru (SUNAT)**: APIs, admin panels, POS clients and printer services.
+- 🧪 **Test automation at retail scale**: end-to-end Playwright suites and CI quality gates.
+
+## About me
+
+- 🚀 **7 years building software**, from freelance desktop apps to retail-scale platforms.
+- 🧪 **Quality and automation mindset**: end-to-end testing, CI quality gates, process automation.
+- 🤖 **AI engineering**: RAG, AI assistants, chatbots and coding-agent tooling.
+- 🦀 Currently deep into **Rust**: CLIs, desktop apps and developer tools.
+- 🎓 Mechanical Engineering, Universidad Nacional del Altiplano.
+
+## Experience
+
+| Role | Company | Period |
+|---|---|---|
+| **Full Stack Software Engineer** | Tottus · Lima (hybrid) | Jun 2026 – present |
+| **Quality Analyst & Software Developer** | TECSUP | Mar 2024 – Jun 2026 |
+| **Software Developer** | Freelance | Oct 2019 – Apr 2023 |
+
+- **Tottus:** full stack development on internal retail platforms (C#/.NET, ASP.NET, SQL Server) and end-to-end test automation with Playwright.
+- **TECSUP:** software quality, system integration, process automation and RAG-based AI assistants.
+- **Freelance:** custom software for small businesses, including desktop POS apps in C#/WPF and web apps in React.
+
+## Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| **journeygate** *(open source soon)* | End-to-end software factory. Triages Jira tickets, drives sandboxed coding agents (Claude Code, Codex) with red-first tests, runs only the Playwright journeys a change affects, separates real regressions from flakes, and gates the PR with one verdict. Its tree-sitter impact engine scored F1 0.981 vs 0.520 for CodeGraph in a pre-registered benchmark. | Rust · Playwright · Postgres · Docker · MCP |
+| **Qbox** | Point of sale, back office and electronic invoicing for retail businesses, with a local printer service. | TypeScript · PHP · Tauri |
+| [**SUNAT e-invoicing API**](https://github.com/CarlosBranty/api-facturacion-qbox-v1) | Issues invoices, receipts and credit/debit notes. Signs UBL XML, sends it to SUNAT and stores the CDR. | Laravel 12 · Greenter |
+| **Qsaunas** | SaaS for spa and sauna businesses: web app, portal and invoicing. | TypeScript · PHP |
+| **Qtrack** | GPS fleet tracking on top of Traccar. | TypeScript · Elysia · Java |
+| **RAG assistants** | AI assistants grounded on private documents with retrieval-augmented generation, plus WhatsApp chatbots. | TypeScript · LLM APIs · Vector search |
+| **LlamaRest POS** | Desktop point of sale and invoicing. | C# · WPF · Supabase |
+
+<sub>Most of these are client or company work kept in private repositories; happy to walk through them in an interview.</sub>
+
+## Tech stack
+
+**Languages**
+
+[![Languages](https://skillicons.dev/icons?i=ts,js,rust,cs,php,python,java,html,css&perline=9)](#tech-stack)
+
+**Frontend and desktop**
+
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,tauri,dotnet&perline=9)](#tech-stack)
+
+**Backend and data**
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,bun,laravel,postgres,mysql,mongodb,redis,supabase&perline=9)](#tech-stack)
+
+**Testing, DevOps and tools**
+
+[![Tools](https://skillicons.dev/icons?i=docker,githubactions,git,linux,vercel,vscode&perline=9)](#tech-stack)
+&nbsp;![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+---
+
 <div align="center">
-<a href="https://github.com/CarlosBranty/CarlosBranty" target="_blank"><img src="https://i.imgur.com/8Yzo1Cu.png" width="400" alt="Login WPF-avalonia C#"></a>
-<p>
-<a href="https://github.com/CarlosBranty/LlamaRest_POS_WPF" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-E2B714?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://www.youtube.com/channel/UCw1cuaEZe7eVaOIao0mbCdA" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-E2B714?style=for-the-badge&color=E2B714">
-</a>
-</p>
-<p>How to make modern Login with xalm WPF Avalonia ui and C#</strong> - Complete ui and source in github <strong>opensource code</strong>.</p>
+
+**Open to collaborations and new challenges.** Reach me on [LinkedIn](https://www.linkedin.com/in/carlos-branty-conza-mendoza-a830b5212/).
+
 </div>
-                                                                                      
-</td>
-
-<td width="50%">
-               <br>
-<h3 align="center">Magnetic Button Next JS</h3>
-<div align="center">                                       
-<a href="https://github.com/CarlosBranty/CarlosBranty" target="_blank"><img src="https://i.imgur.com/4zXovzI.png" width="400" alt="How to make magnetic button"></a>
-<br>
-<p>
-<a href="https://github.com/CarlosBranty/CarlosBranty" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-E2B714?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://www.youtube.com/channel/UCw1cuaEZe7eVaOIao0mbCdA" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-E2B714?style=for-the-badge&color=E2B714">
-</a>
-</p>
-</p>How to make <strong>IMPRESCINDIBLES</strong> Magnetic button on react, Next js with tailwind typescript</p>
-</div>                                                             
-</table>  
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=CarlosBranty&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosBranty&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CarlosBranty&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=CarlosBranty&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>     
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
